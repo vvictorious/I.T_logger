@@ -9,12 +9,12 @@ const AddBtn = () => {
             <ul>
                 <li>
                     <a className='btn-floating green modal-trigger' href='#tech-list-modal'>
-                    <i className='material-icons'>person</i>
+                        <i className='material-icons'>person</i>
                     </a>
                 </li>
                 <li>
                     <a href='#tech-modal' className='btn-floating red modal-trigger'>
-                    <i className='material-icons'>person_add</i>
+                        <i className='material-icons'>person_add</i>
                     </a>
                 </li>                
             </ul>
