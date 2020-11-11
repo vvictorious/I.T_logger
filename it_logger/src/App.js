@@ -5,6 +5,7 @@ import './App.css';
 
 import SearchBar from './components/layout/AppSearchBar'
 import Logs from './components/logs/Logs'
+import AddBtn from './components/layout/AddBtn'
 
 const App = () => {
 
@@ -17,6 +18,7 @@ const App = () => {
     <Fragment>
       <SearchBar />
       <div className='container'>
+        <AddBtn />
         <Logs />
       </div>
     </Fragment>
