@@ -18,6 +18,9 @@ const LogItem = ({log}) => {
                     <span className='black-text'>ID#{log.id}</span> Last updated by {' '}
                     <span className='black-text'>{log.tech}</span> On <Moment format='MMM Do YYYY, h:mm:ss a'>{log.date}</Moment>
                 </span>
+                <a href='#!' className='secondary-content'>
+                    <i className='material-icons grey-text'>delete</i>
+                </a>
             </div>
         </li>
     )
