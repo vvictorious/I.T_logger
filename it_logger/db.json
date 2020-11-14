@@ -1,32 +1,18 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "Changed hard drive on workstation 005",
+      "message": "change netword card in server 008",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sam Snitch"
+      "tech": "Sam Smith",
+      "date": "2020-11-14T19:51:14.496Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "message": "Workstation 007 is not posting",
+      "message": "computer has destroyed the planet from implosion 003",
       "attention": true,
-      "date": "03-02-2019",
-      "tech": "John Doe"
-    },
-    {
-      "id": 3,
-      "message": "Changed memory on workstation 050",
-      "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sara Wilson"
-    },
-    {
-      "message": "new motherboard needed 007",
-      "attention": true,
-      "tech": "John Doe",
-      "date": "2020-11-14T19:49:10.801Z",
-      "id": 4
+      "tech": "Sarah Wilson",
+      "date": "2020-11-14T21:16:47.154Z",
+      "id": 2
     }
   ],
   "techs": [
