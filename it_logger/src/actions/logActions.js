@@ -7,7 +7,7 @@ import {
     SET_CURRENT, 
     CLEAR_CURRENT, 
     UPDATE_LOG,
-    SEARCH_LOGS 
+    SEARCH_LOGS
 } from './types'
 
 // export const getLogs = () => {
