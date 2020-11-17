@@ -53,7 +53,7 @@ export const addTech = (tech) => async dispatch => {
 }
 
 //delete tech
-export const getTechs = (id) => async dispatch => {
+export const deleteTech = (id) => async dispatch => {
     try {
         setLoading()
 
